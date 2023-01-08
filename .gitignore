@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+flower_photos
+
+training/*
+model.h5
+.idea
